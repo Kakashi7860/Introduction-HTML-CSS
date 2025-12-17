@@ -1,0 +1,6 @@
+Every HTML element is a box
+
+1.Margin - (Outside Space)
+2.Border
+3.Padding - (inside space)
+4.Content
